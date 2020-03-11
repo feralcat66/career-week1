@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`throws if format is unacceptable 1`] = `"nameValidator is not defined"`;
