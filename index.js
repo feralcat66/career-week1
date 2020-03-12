@@ -6,8 +6,7 @@
 // console.log(isFunction(4));
 // console.log(isObject({}));
 // console.log(isString('hi'));
-<<<<<<< HEAD
-=======
+
 
 // const { nameValidator, ageValidator, heightValidator, eyeColorValidator  } = require('./lib/Validator.js');
 
@@ -21,4 +20,4 @@
 // console.log(ageValidator.validate(jim));
 // console.log(heightValidator.validate(jim));
 // console.log(eyeColorValidator.validate(jim));
->>>>>>> 8fe1b144c02d5a9e0bf4780392c4c3fea8aea320
+
